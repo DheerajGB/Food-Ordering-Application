@@ -1,4 +1,5 @@
------------------------------------------------Food Ordering Appl using LINUX-GUI ------------------------------------------
+-----------------------------------------------Food Ordering Appl using LINUX-GUI --------------------------------------------------
+
 • In this project, we have taken data about restaurant management system by using shell scripting 
 commands in Linux ubuntu (GUI). 
 • The created data base will take orders of fast-food items from the customers as per their order. 
